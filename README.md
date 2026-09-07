@@ -1,4 +1,4 @@
-# Software-Engineering-Project
+# Comp-Arch-Project
 Semester long architecture project
 
 Did a group order with Emmet for the board and the i2c pixel display.
